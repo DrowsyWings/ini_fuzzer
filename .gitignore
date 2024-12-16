@@ -1,0 +1,5 @@
+build/
+test/corpus/*
+!test/corpus/sample1.ini
+!test/corpus/sample2.ini
+!test/corpus/sample3.ini
